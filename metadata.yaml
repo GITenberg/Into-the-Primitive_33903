@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1956
     wikipedia: http://en.wikipedia.org/wiki/Robert_Ames_Bennet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33903#Into-the-Primitive
 gutenberg_issued: '2010-10-25'
 gutenberg_type: Text
 identifiers:
